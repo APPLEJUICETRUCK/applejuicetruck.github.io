@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://applejuicetruck111.github.io//sitemap.xml
+Sitemap: https://applejuicetruck.github.io//sitemap.xml
